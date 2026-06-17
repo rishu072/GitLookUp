@@ -1,0 +1,1848 @@
+{
+  "cached": false,
+  "timestamp": 1781673783,
+  "user": {
+    "login": "gaearon",
+    "name": "dan",
+    "avatar_url": "https://avatars.githubusercontent.com/u/810438?v=4",
+    "html_url": "https://github.com/gaearon",
+    "bio": null,
+    "location": null,
+    "blog": "danabra.mov",
+    "twitter": null,
+    "company": null,
+    "public_repos": 297,
+    "public_gists": 82,
+    "followers": 90848,
+    "following": 174,
+    "created_at": "2011-05-25T18:18:31Z",
+    "updated_at": "2026-06-16T17:39:29Z"
+  },
+  "repos": [
+    {
+      "name": "turbopack-seal-bug",
+      "full_name": "gaearon/turbopack-seal-bug",
+      "html_url": "https://github.com/gaearon/turbopack-seal-bug",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "size_kb": 10,
+      "created_at": "2026-06-16T19:51:53Z",
+      "updated_at": "2026-06-17T01:22:27Z",
+      "pushed_at": "2026-06-16T19:52:30Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-hot-loader",
+      "full_name": "gaearon/react-hot-loader",
+      "html_url": "https://github.com/gaearon/react-hot-loader",
+      "description": "Tweak React components in real time. (Deprecated: use Fast Refresh instead.)",
+      "language": "JavaScript",
+      "stars": 12175,
+      "forks": 779,
+      "size_kb": 9389,
+      "created_at": "2014-07-12T23:49:43Z",
+      "updated_at": "2026-06-15T12:01:59Z",
+      "pushed_at": "2023-02-10T02:42:07Z",
+      "open_issues": 463
+    },
+    {
+      "name": "whatthefuck.is",
+      "full_name": "gaearon/whatthefuck.is",
+      "html_url": "https://github.com/gaearon/whatthefuck.is",
+      "description": "An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.",
+      "language": "CSS",
+      "stars": 3037,
+      "forks": 111,
+      "size_kb": 575,
+      "created_at": "2020-07-10T21:53:30Z",
+      "updated_at": "2026-06-15T09:35:28Z",
+      "pushed_at": "2022-12-13T06:41:09Z",
+      "open_issues": 333
+    },
+    {
+      "name": "overreacted.io",
+      "full_name": "gaearon/overreacted.io",
+      "html_url": "https://github.com/gaearon/overreacted.io",
+      "description": "Personal blog by Dan Abramov.",
+      "language": "TypeScript",
+      "stars": 7271,
+      "forks": 1716,
+      "size_kb": 200465,
+      "created_at": "2018-11-30T20:44:08Z",
+      "updated_at": "2026-06-14T10:43:04Z",
+      "pushed_at": "2026-06-16T20:07:17Z",
+      "open_issues": 13
+    },
+    {
+      "name": "rscexplorer",
+      "full_name": "gaearon/rscexplorer",
+      "html_url": "https://github.com/gaearon/rscexplorer",
+      "description": "A tool for people curious about the React Server Components protocol",
+      "language": "TypeScript",
+      "stars": 1100,
+      "forks": 30,
+      "size_kb": 489,
+      "created_at": "2025-12-16T09:57:01Z",
+      "updated_at": "2026-06-13T21:18:18Z",
+      "pushed_at": "2026-01-05T15:06:33Z",
+      "open_issues": 1
+    },
+    {
+      "name": "react-makes-you-sad",
+      "full_name": "gaearon/react-makes-you-sad",
+      "html_url": "https://github.com/gaearon/react-makes-you-sad",
+      "description": "Here’s a flowchart to make you happy again!",
+      "language": "Makefile",
+      "stars": 2072,
+      "forks": 102,
+      "size_kb": 85,
+      "created_at": "2016-02-29T16:13:39Z",
+      "updated_at": "2026-06-12T17:28:47Z",
+      "pushed_at": "2016-10-06T21:17:21Z",
+      "open_issues": 2
+    },
+    {
+      "name": "react-hot-boilerplate",
+      "full_name": "gaearon/react-hot-boilerplate",
+      "html_url": "https://github.com/gaearon/react-hot-boilerplate",
+      "description": "Minimal live-editing example for React",
+      "language": "JavaScript",
+      "stars": 3892,
+      "forks": 859,
+      "size_kb": 134,
+      "created_at": "2014-08-23T16:38:09Z",
+      "updated_at": "2026-06-12T17:11:21Z",
+      "pushed_at": "2020-08-21T15:47:32Z",
+      "open_issues": 14
+    },
+    {
+      "name": "react-transform-boilerplate",
+      "full_name": "gaearon/react-transform-boilerplate",
+      "html_url": "https://github.com/gaearon/react-transform-boilerplate",
+      "description": "A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.",
+      "language": "JavaScript",
+      "stars": 3336,
+      "forks": 416,
+      "size_kb": 54,
+      "created_at": "2015-09-03T01:13:36Z",
+      "updated_at": "2026-06-10T10:15:32Z",
+      "pushed_at": "2020-08-21T15:47:58Z",
+      "open_issues": 7
+    },
+    {
+      "name": "suspense-experimental-github-demo",
+      "full_name": "gaearon/suspense-experimental-github-demo",
+      "html_url": "https://github.com/gaearon/suspense-experimental-github-demo",
+      "description": "Sample project built with Suspense to demonstrate render-as-you-fetch",
+      "language": "JavaScript",
+      "stars": 795,
+      "forks": 40,
+      "size_kb": 1480,
+      "created_at": "2019-11-05T03:32:27Z",
+      "updated_at": "2026-06-10T01:13:42Z",
+      "pushed_at": "2020-12-28T22:21:14Z",
+      "open_issues": 11
+    },
+    {
+      "name": "react",
+      "full_name": "gaearon/react",
+      "html_url": "https://github.com/gaearon/react",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "language": "JavaScript",
+      "stars": 86,
+      "forks": 26,
+      "size_kb": 161864,
+      "created_at": "2016-10-21T12:39:49Z",
+      "updated_at": "2026-06-09T19:18:41Z",
+      "pushed_at": "2023-05-10T15:50:16Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-native",
+      "full_name": "gaearon/react-native",
+      "html_url": "https://github.com/gaearon/react-native",
+      "description": "A framework for building native apps with React.",
+      "language": "Java",
+      "stars": 15,
+      "forks": 5,
+      "size_kb": 325924,
+      "created_at": "2016-03-06T18:32:04Z",
+      "updated_at": "2026-06-09T17:50:41Z",
+      "pushed_at": "2024-11-22T14:18:32Z",
+      "open_issues": 0
+    },
+    {
+      "name": "metro",
+      "full_name": "gaearon/metro",
+      "html_url": "https://github.com/gaearon/metro",
+      "description": "🚇 The JavaScript bundler for React Native.",
+      "language": "JavaScript",
+      "stars": 7,
+      "forks": 2,
+      "size_kb": 28316,
+      "created_at": "2018-08-24T18:30:34Z",
+      "updated_at": "2026-06-09T17:42:39Z",
+      "pushed_at": "2024-11-17T18:08:49Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-native-website",
+      "full_name": "gaearon/react-native-website",
+      "html_url": "https://github.com/gaearon/react-native-website",
+      "description": "The site and docs for React Native",
+      "language": "JavaScript",
+      "stars": 11,
+      "forks": 3,
+      "size_kb": 198091,
+      "created_at": "2017-12-04T13:53:34Z",
+      "updated_at": "2026-06-09T17:23:11Z",
+      "pushed_at": "2024-11-22T15:38:25Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-document-title",
+      "full_name": "gaearon/react-document-title",
+      "html_url": "https://github.com/gaearon/react-document-title",
+      "description": "Declarative, nested, stateful, isomorphic document.title for React",
+      "language": "JavaScript",
+      "stars": 1851,
+      "forks": 102,
+      "size_kb": 32,
+      "created_at": "2014-10-08T19:51:49Z",
+      "updated_at": "2026-06-07T21:55:26Z",
+      "pushed_at": "2019-10-28T13:34:57Z",
+      "open_issues": 21
+    },
+    {
+      "name": "subliminal",
+      "full_name": "gaearon/subliminal",
+      "html_url": "https://github.com/gaearon/subliminal",
+      "description": "An opinionated minimalistic VS Code theme for JavaScript",
+      "language": null,
+      "stars": 624,
+      "forks": 24,
+      "size_kb": 739,
+      "created_at": "2018-04-30T02:01:00Z",
+      "updated_at": "2026-06-07T21:55:07Z",
+      "pushed_at": "2019-03-29T16:15:37Z",
+      "open_issues": 16
+    },
+    {
+      "name": "awesome-redux",
+      "full_name": "gaearon/awesome-redux",
+      "html_url": "https://github.com/gaearon/awesome-redux",
+      "description": "Awesome list of Redux examples and middlewares",
+      "language": null,
+      "stars": 16,
+      "forks": 1,
+      "size_kb": 99,
+      "created_at": "2015-08-04T10:54:17Z",
+      "updated_at": "2026-06-06T05:57:41Z",
+      "pushed_at": "2015-08-04T06:03:04Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-proxy",
+      "full_name": "gaearon/react-proxy",
+      "html_url": "https://github.com/gaearon/react-proxy",
+      "description": "Proxies React components without unmounting or losing their state",
+      "language": "JavaScript",
+      "stars": 454,
+      "forks": 43,
+      "size_kb": 281,
+      "created_at": "2015-04-28T21:35:39Z",
+      "updated_at": "2026-06-06T05:57:41Z",
+      "pushed_at": "2020-09-04T21:33:19Z",
+      "open_issues": 25
+    },
+    {
+      "name": "redux-example",
+      "full_name": "gaearon/redux-example",
+      "html_url": "https://github.com/gaearon/redux-example",
+      "description": "Another universal example.",
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 2,
+      "size_kb": 102,
+      "created_at": "2015-06-28T19:13:34Z",
+      "updated_at": "2026-06-06T05:57:40Z",
+      "pushed_at": "2015-06-28T19:14:02Z",
+      "open_issues": 0
+    },
+    {
+      "name": "redux-devtools-log-monitor",
+      "full_name": "gaearon/redux-devtools-log-monitor",
+      "html_url": "https://github.com/gaearon/redux-devtools-log-monitor",
+      "description": "The default monitor for Redux DevTools with a tree view",
+      "language": "JavaScript",
+      "stars": 307,
+      "forks": 66,
+      "size_kb": 73,
+      "created_at": "2015-09-24T15:21:29Z",
+      "updated_at": "2026-06-06T05:57:14Z",
+      "pushed_at": "2017-11-11T18:58:39Z",
+      "open_issues": 8
+    },
+    {
+      "name": "react-deep-force-update",
+      "full_name": "gaearon/react-deep-force-update",
+      "html_url": "https://github.com/gaearon/react-deep-force-update",
+      "description": "Force-updates React component tree recursively",
+      "language": "JavaScript",
+      "stars": 120,
+      "forks": 19,
+      "size_kb": 569,
+      "created_at": "2015-09-16T20:47:39Z",
+      "updated_at": "2026-06-06T05:56:48Z",
+      "pushed_at": "2023-01-11T18:47:09Z",
+      "open_issues": 29
+    },
+    {
+      "name": "livereactload",
+      "full_name": "gaearon/livereactload",
+      "html_url": "https://github.com/gaearon/livereactload",
+      "description": "Live code editing with Browserify and React",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 1,
+      "size_kb": 32055,
+      "created_at": "2015-10-19T19:06:35Z",
+      "updated_at": "2026-06-06T05:56:48Z",
+      "pushed_at": "2015-10-19T19:08:16Z",
+      "open_issues": 0
+    },
+    {
+      "name": "redux-friendlist-demo",
+      "full_name": "gaearon/redux-friendlist-demo",
+      "html_url": "https://github.com/gaearon/redux-friendlist-demo",
+      "description": "Simple demo app featuring Redux",
+      "language": "JavaScript",
+      "stars": 12,
+      "forks": 2,
+      "size_kb": 96,
+      "created_at": "2015-09-29T23:42:49Z",
+      "updated_at": "2026-06-06T05:56:46Z",
+      "pushed_at": "2015-11-26T00:26:17Z",
+      "open_issues": 1
+    },
+    {
+      "name": "redux-react-router-async-example",
+      "full_name": "gaearon/redux-react-router-async-example",
+      "html_url": "https://github.com/gaearon/redux-react-router-async-example",
+      "description": "A showcase of the Redux architecture with React Router",
+      "language": "JavaScript",
+      "stars": 7,
+      "forks": 2,
+      "size_kb": 2932,
+      "created_at": "2015-10-15T09:34:00Z",
+      "updated_at": "2026-06-06T05:56:46Z",
+      "pushed_at": "2015-10-15T08:33:30Z",
+      "open_issues": 0
+    },
+    {
+      "name": "promise-loader",
+      "full_name": "gaearon/promise-loader",
+      "html_url": "https://github.com/gaearon/promise-loader",
+      "description": "A webpack bundle-loader ripoff with promise interface",
+      "language": "JavaScript",
+      "stars": 213,
+      "forks": 14,
+      "size_kb": 191,
+      "created_at": "2014-07-07T18:09:16Z",
+      "updated_at": "2026-06-06T05:56:46Z",
+      "pushed_at": "2016-08-02T06:54:30Z",
+      "open_issues": 4
+    },
+    {
+      "name": "redux-form",
+      "full_name": "gaearon/redux-form",
+      "html_url": "https://github.com/gaearon/redux-form",
+      "description": "An ES7 decorator for forms using Redux and React",
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 1,
+      "size_kb": 252,
+      "created_at": "2015-08-10T15:42:36Z",
+      "updated_at": "2026-06-06T05:56:45Z",
+      "pushed_at": "2015-08-26T13:16:41Z",
+      "open_issues": 0
+    },
+    {
+      "name": "microjs.com",
+      "full_name": "gaearon/microjs.com",
+      "html_url": "https://github.com/gaearon/microjs.com",
+      "description": "Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 1,
+      "size_kb": 8175,
+      "created_at": "2015-08-15T11:34:45Z",
+      "updated_at": "2026-06-06T05:56:44Z",
+      "pushed_at": "2015-08-10T13:45:25Z",
+      "open_issues": 0
+    },
+    {
+      "name": "simplest-redux-example",
+      "full_name": "gaearon/simplest-redux-example",
+      "html_url": "https://github.com/gaearon/simplest-redux-example",
+      "description": "Simplest redux + react example for beginners like me",
+      "language": "JavaScript",
+      "stars": 9,
+      "forks": 6,
+      "size_kb": 82,
+      "created_at": "2015-08-07T17:16:26Z",
+      "updated_at": "2026-06-06T05:56:43Z",
+      "pushed_at": "2015-08-07T17:16:39Z",
+      "open_issues": 0
+    },
+    {
+      "name": "js-must-watch",
+      "full_name": "gaearon/js-must-watch",
+      "html_url": "https://github.com/gaearon/js-must-watch",
+      "description": "Must-watch videos about javascript",
+      "language": null,
+      "stars": 62,
+      "forks": 12,
+      "size_kb": 56,
+      "created_at": "2015-08-07T14:31:48Z",
+      "updated_at": "2026-06-06T05:56:43Z",
+      "pushed_at": "2016-03-12T13:26:38Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-dnd-example",
+      "full_name": "gaearon/react-dnd-example",
+      "html_url": "https://github.com/gaearon/react-dnd-example",
+      "description": null,
+      "language": null,
+      "stars": 3,
+      "forks": 2,
+      "size_kb": 698,
+      "created_at": "2014-11-06T01:36:44Z",
+      "updated_at": "2026-06-06T05:56:38Z",
+      "pushed_at": "2014-11-06T01:40:06Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-elmish-example",
+      "full_name": "gaearon/react-elmish-example",
+      "html_url": "https://github.com/gaearon/react-elmish-example",
+      "description": "My personal attempt at understanding Elm architecture",
+      "language": "HTML",
+      "stars": 169,
+      "forks": 10,
+      "size_kb": 760,
+      "created_at": "2015-10-04T17:15:21Z",
+      "updated_at": "2026-06-06T05:51:15Z",
+      "pushed_at": "2015-10-04T18:22:09Z",
+      "open_issues": 1
+    },
+    {
+      "name": "todos",
+      "full_name": "gaearon/todos",
+      "html_url": "https://github.com/gaearon/todos",
+      "description": "Examples for “Idiomatic Redux”: one branch per lesson",
+      "language": "JavaScript",
+      "stars": 785,
+      "forks": 305,
+      "size_kb": 27,
+      "created_at": "2016-05-02T18:18:13Z",
+      "updated_at": "2026-06-06T05:44:31Z",
+      "pushed_at": "2020-06-10T11:26:42Z",
+      "open_issues": 7
+    },
+    {
+      "name": "library-boilerplate",
+      "full_name": "gaearon/library-boilerplate",
+      "html_url": "https://github.com/gaearon/library-boilerplate",
+      "description": "An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader",
+      "language": "JavaScript",
+      "stars": 382,
+      "forks": 38,
+      "size_kb": 146,
+      "created_at": "2015-07-14T17:43:36Z",
+      "updated_at": "2026-06-06T02:24:55Z",
+      "pushed_at": "2016-02-28T20:39:47Z",
+      "open_issues": 7
+    },
+    {
+      "name": "social-app",
+      "full_name": "gaearon/social-app",
+      "html_url": "https://github.com/gaearon/social-app",
+      "description": "The Bluesky Social application for Web, iOS, and Android",
+      "language": null,
+      "stars": 12,
+      "forks": 4,
+      "size_kb": 156347,
+      "created_at": "2024-12-19T05:41:22Z",
+      "updated_at": "2026-06-04T20:29:50Z",
+      "pushed_at": "2026-01-09T18:10:46Z",
+      "open_issues": 0
+    },
+    {
+      "name": "awesome-made-by-russians",
+      "full_name": "gaearon/awesome-made-by-russians",
+      "html_url": "https://github.com/gaearon/awesome-made-by-russians",
+      "description": "🇷🇺 The best open source projects that were made and mainly contributed by Russian developers",
+      "language": null,
+      "stars": 96,
+      "forks": 9,
+      "size_kb": 415,
+      "created_at": "2020-08-21T15:46:21Z",
+      "updated_at": "2026-05-19T06:45:21Z",
+      "pushed_at": "2020-08-21T15:46:45Z",
+      "open_issues": 0
+    },
+    {
+      "name": "create-react-app",
+      "full_name": "gaearon/create-react-app",
+      "html_url": "https://github.com/gaearon/create-react-app",
+      "description": "Create React apps with no build configuration.",
+      "language": "JavaScript",
+      "stars": 36,
+      "forks": 11,
+      "size_kb": 10059,
+      "created_at": "2016-07-24T22:16:55Z",
+      "updated_at": "2026-05-13T17:58:10Z",
+      "pushed_at": "2019-06-17T09:25:33Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-side-effect",
+      "full_name": "gaearon/react-side-effect",
+      "html_url": "https://github.com/gaearon/react-side-effect",
+      "description": "Create components whose nested prop changes map to a global side effect",
+      "language": "JavaScript",
+      "stars": 1214,
+      "forks": 75,
+      "size_kb": 902,
+      "created_at": "2015-02-13T14:22:12Z",
+      "updated_at": "2026-05-11T13:45:53Z",
+      "pushed_at": "2023-03-04T04:00:16Z",
+      "open_issues": 15
+    },
+    {
+      "name": "jest",
+      "full_name": "gaearon/jest",
+      "html_url": "https://github.com/gaearon/jest",
+      "description": "🃏 Delightful JavaScript Testing.",
+      "language": "JavaScript",
+      "stars": 7,
+      "forks": 4,
+      "size_kb": 18846,
+      "created_at": "2017-05-19T17:42:17Z",
+      "updated_at": "2026-05-10T09:35:42Z",
+      "pushed_at": "2017-10-26T12:42:43Z",
+      "open_issues": 0
+    },
+    {
+      "name": "reactopt",
+      "full_name": "gaearon/reactopt",
+      "html_url": "https://github.com/gaearon/reactopt",
+      "description": "A CLI React performance optimization tool that identifies potential unnecessary re-rendering",
+      "language": "JavaScript",
+      "stars": 9,
+      "forks": 0,
+      "size_kb": 723,
+      "created_at": "2017-11-30T19:05:54Z",
+      "updated_at": "2026-05-10T09:35:40Z",
+      "pushed_at": "2017-11-30T18:13:29Z",
+      "open_issues": 0
+    },
+    {
+      "name": "awesome-create-react-app",
+      "full_name": "gaearon/awesome-create-react-app",
+      "html_url": "https://github.com/gaearon/awesome-create-react-app",
+      "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
+      "language": null,
+      "stars": 15,
+      "forks": 6,
+      "size_kb": 10,
+      "created_at": "2017-01-24T11:01:59Z",
+      "updated_at": "2026-05-10T09:35:37Z",
+      "pushed_at": "2017-01-24T11:38:27Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-toolbox-themr",
+      "full_name": "gaearon/react-toolbox-themr",
+      "html_url": "https://github.com/gaearon/react-toolbox-themr",
+      "description": "A tool to statically extract and generate custom themes for React Toolbox",
+      "language": "JavaScript",
+      "stars": 3,
+      "forks": 0,
+      "size_kb": 53,
+      "created_at": "2017-04-08T03:58:15Z",
+      "updated_at": "2026-05-10T09:35:36Z",
+      "pushed_at": "2017-04-10T22:45:55Z",
+      "open_issues": 0
+    },
+    {
+      "name": "enzyme",
+      "full_name": "gaearon/enzyme",
+      "html_url": "https://github.com/gaearon/enzyme",
+      "description": "JavaScript Testing utilities for React",
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 3,
+      "size_kb": 4258,
+      "created_at": "2017-04-09T11:12:27Z",
+      "updated_at": "2026-05-10T09:35:34Z",
+      "pushed_at": "2018-08-24T18:52:59Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-toolbox",
+      "full_name": "gaearon/react-toolbox",
+      "html_url": "https://github.com/gaearon/react-toolbox",
+      "description": "A set of React components implementing Google's Material Design specification with the power of CSS Modules",
+      "language": "JavaScript",
+      "stars": 8,
+      "forks": 3,
+      "size_kb": 11701,
+      "created_at": "2017-05-20T19:21:15Z",
+      "updated_at": "2026-05-10T09:35:21Z",
+      "pushed_at": "2017-05-20T19:25:52Z",
+      "open_issues": 0
+    },
+    {
+      "name": "reanimated-repro-weird",
+      "full_name": "gaearon/reanimated-repro-weird",
+      "html_url": "https://github.com/gaearon/reanimated-repro-weird",
+      "description": null,
+      "language": "Kotlin",
+      "stars": 6,
+      "forks": 0,
+      "size_kb": 252,
+      "created_at": "2024-11-08T00:21:33Z",
+      "updated_at": "2026-05-09T14:27:09Z",
+      "pushed_at": "2024-11-08T18:28:56Z",
+      "open_issues": 0
+    },
+    {
+      "name": "next.js",
+      "full_name": "gaearon/next.js",
+      "html_url": "https://github.com/gaearon/next.js",
+      "description": "The React Framework",
+      "language": null,
+      "stars": 16,
+      "forks": 4,
+      "size_kb": 2244853,
+      "created_at": "2022-02-01T11:50:57Z",
+      "updated_at": "2026-05-02T05:54:26Z",
+      "pushed_at": "2025-12-04T14:19:32Z",
+      "open_issues": 0
+    },
+    {
+      "name": "next-bug-repro",
+      "full_name": "gaearon/next-bug-repro",
+      "html_url": "https://github.com/gaearon/next-bug-repro",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 4,
+      "forks": 0,
+      "size_kb": 23,
+      "created_at": "2025-11-30T08:02:25Z",
+      "updated_at": "2026-05-02T05:54:26Z",
+      "pushed_at": "2025-11-30T09:09:26Z",
+      "open_issues": 0
+    },
+    {
+      "name": "indigo",
+      "full_name": "gaearon/indigo",
+      "html_url": "https://github.com/gaearon/indigo",
+      "description": "Go source code for Bluesky's atproto services.",
+      "language": null,
+      "stars": 6,
+      "forks": 0,
+      "size_kb": 8932,
+      "created_at": "2025-12-12T19:25:42Z",
+      "updated_at": "2026-05-02T05:54:24Z",
+      "pushed_at": "2025-12-12T19:27:51Z",
+      "open_issues": 0
+    },
+    {
+      "name": "woodshed",
+      "full_name": "gaearon/woodshed",
+      "html_url": "https://github.com/gaearon/woodshed",
+      "description": "Create, run, rate, and iterate on your Claude Skills",
+      "language": "TypeScript",
+      "stars": 65,
+      "forks": 0,
+      "size_kb": 302,
+      "created_at": "2026-01-12T14:31:27Z",
+      "updated_at": "2026-05-02T05:54:22Z",
+      "pushed_at": "2026-01-13T02:17:59Z",
+      "open_issues": 0
+    },
+    {
+      "name": "mariozechner.at",
+      "full_name": "gaearon/mariozechner.at",
+      "html_url": "https://github.com/gaearon/mariozechner.at",
+      "description": null,
+      "language": null,
+      "stars": 1,
+      "forks": 0,
+      "size_kb": 753089,
+      "created_at": "2026-01-13T12:59:46Z",
+      "updated_at": "2026-05-02T05:54:21Z",
+      "pushed_at": "2026-01-13T13:00:56Z",
+      "open_issues": 0
+    },
+    {
+      "name": "atproto",
+      "full_name": "gaearon/atproto",
+      "html_url": "https://github.com/gaearon/atproto",
+      "description": "Social networking technology created by Bluesky",
+      "language": null,
+      "stars": 8,
+      "forks": 1,
+      "size_kb": 51424,
+      "created_at": "2025-09-29T15:44:44Z",
+      "updated_at": "2026-05-02T05:54:20Z",
+      "pushed_at": "2026-02-17T20:31:00Z",
+      "open_issues": 0
+    },
+    {
+      "name": "atproto-website",
+      "full_name": "gaearon/atproto-website",
+      "html_url": "https://github.com/gaearon/atproto-website",
+      "description": null,
+      "language": null,
+      "stars": 1,
+      "forks": 1,
+      "size_kb": 31158,
+      "created_at": "2026-02-04T16:01:58Z",
+      "updated_at": "2026-05-02T05:54:19Z",
+      "pushed_at": "2026-02-27T14:17:40Z",
+      "open_issues": 0
+    },
+    {
+      "name": "hono",
+      "full_name": "gaearon/hono",
+      "html_url": "https://github.com/gaearon/hono",
+      "description": "Web framework built on Web Standards",
+      "language": null,
+      "stars": 3,
+      "forks": 0,
+      "size_kb": 8575,
+      "created_at": "2026-02-25T11:23:42Z",
+      "updated_at": "2026-05-02T05:54:19Z",
+      "pushed_at": "2026-03-07T01:12:28Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-udv-bug",
+      "full_name": "gaearon/react-udv-bug",
+      "html_url": "https://github.com/gaearon/react-udv-bug",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 3,
+      "forks": 0,
+      "size_kb": 11,
+      "created_at": "2026-02-18T21:07:53Z",
+      "updated_at": "2026-05-02T05:54:18Z",
+      "pushed_at": "2026-03-24T01:04:13Z",
+      "open_issues": 0
+    },
+    {
+      "name": "babel-plugin-react-transform",
+      "full_name": "gaearon/babel-plugin-react-transform",
+      "html_url": "https://github.com/gaearon/babel-plugin-react-transform",
+      "description": "Babel plugin to instrument React components with custom transforms",
+      "language": "JavaScript",
+      "stars": 1070,
+      "forks": 86,
+      "size_kb": 105,
+      "created_at": "2015-08-27T23:50:00Z",
+      "updated_at": "2026-04-28T16:03:16Z",
+      "pushed_at": "2018-09-03T17:07:41Z",
+      "open_issues": 10
+    },
+    {
+      "name": "react-native-reanimated",
+      "full_name": "gaearon/react-native-reanimated",
+      "html_url": "https://github.com/gaearon/react-native-reanimated",
+      "description": "React Native's Animated library reimplemented",
+      "language": null,
+      "stars": 7,
+      "forks": 0,
+      "size_kb": 365351,
+      "created_at": "2024-11-18T02:24:20Z",
+      "updated_at": "2026-04-24T19:30:37Z",
+      "pushed_at": "2024-11-22T14:21:08Z",
+      "open_issues": 0
+    },
+    {
+      "name": "flux-react-router-example",
+      "full_name": "gaearon/flux-react-router-example",
+      "html_url": "https://github.com/gaearon/flux-react-router-example",
+      "description": "A sample app showcasing Flux with React Router",
+      "language": "JavaScript",
+      "stars": 1420,
+      "forks": 171,
+      "size_kb": 2555,
+      "created_at": "2014-08-23T15:49:37Z",
+      "updated_at": "2026-03-25T04:22:39Z",
+      "pushed_at": "2017-08-25T15:09:09Z",
+      "open_issues": 7
+    },
+    {
+      "name": "react-pure-render",
+      "full_name": "gaearon/react-pure-render",
+      "html_url": "https://github.com/gaearon/react-pure-render",
+      "description": "[No Maintenance Intended] A function, a component and a mixin for React pure rendering",
+      "language": "JavaScript",
+      "stars": 446,
+      "forks": 26,
+      "size_kb": 12,
+      "created_at": "2015-05-04T20:00:34Z",
+      "updated_at": "2026-02-20T11:22:28Z",
+      "pushed_at": "2019-10-29T17:47:17Z",
+      "open_issues": 1
+    },
+    {
+      "name": "react-freeze",
+      "full_name": "gaearon/react-freeze",
+      "html_url": "https://github.com/gaearon/react-freeze",
+      "description": "Prevent React component subtrees from rendering.",
+      "language": null,
+      "stars": 29,
+      "forks": 4,
+      "size_kb": 552,
+      "created_at": "2023-10-17T17:23:26Z",
+      "updated_at": "2026-01-28T11:25:35Z",
+      "pushed_at": "2024-02-25T01:56:47Z",
+      "open_issues": 0
+    },
+    {
+      "name": "analysis-solutions",
+      "full_name": "gaearon/analysis-solutions",
+      "html_url": "https://github.com/gaearon/analysis-solutions",
+      "description": "My solutions to Tao's Analysis I, formalized in Lean",
+      "language": "Lean",
+      "stars": 42,
+      "forks": 0,
+      "size_kb": 1652,
+      "created_at": "2025-06-28T16:39:25Z",
+      "updated_at": "2026-01-06T07:34:26Z",
+      "pushed_at": "2025-09-23T14:27:11Z",
+      "open_issues": 1
+    },
+    {
+      "name": "react-lag-radar",
+      "full_name": "gaearon/react-lag-radar",
+      "html_url": "https://github.com/gaearon/react-lag-radar",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 295,
+      "forks": 5,
+      "size_kb": 3,
+      "created_at": "2021-06-15T19:05:01Z",
+      "updated_at": "2026-01-03T08:56:54Z",
+      "pushed_at": "2021-06-17T15:28:19Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-server-components-boilerplate",
+      "full_name": "gaearon/react-server-components-boilerplate",
+      "html_url": "https://github.com/gaearon/react-server-components-boilerplate",
+      "description": null,
+      "language": null,
+      "stars": 22,
+      "forks": 2,
+      "size_kb": 188,
+      "created_at": "2021-01-05T20:10:44Z",
+      "updated_at": "2025-12-02T06:35:46Z",
+      "pushed_at": "2021-01-05T20:18:22Z",
+      "open_issues": 0
+    },
+    {
+      "name": "expose-loader",
+      "full_name": "gaearon/expose-loader",
+      "html_url": "https://github.com/gaearon/expose-loader",
+      "description": "expose loader module for webpack",
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 1,
+      "size_kb": 16,
+      "created_at": "2017-04-10T20:03:26Z",
+      "updated_at": "2025-10-24T15:51:58Z",
+      "pushed_at": "2017-04-11T13:44:54Z",
+      "open_issues": 0
+    },
+    {
+      "name": "leaflet",
+      "full_name": "gaearon/leaflet",
+      "html_url": "https://github.com/gaearon/leaflet",
+      "description": "A tool for shared writing and social publishing",
+      "language": null,
+      "stars": 3,
+      "forks": 0,
+      "size_kb": 21567,
+      "created_at": "2025-10-09T22:10:04Z",
+      "updated_at": "2025-10-13T17:41:52Z",
+      "pushed_at": "2025-10-09T22:10:28Z",
+      "open_issues": 0
+    },
+    {
+      "name": "lpm",
+      "full_name": "gaearon/lpm",
+      "html_url": "https://github.com/gaearon/lpm",
+      "description": null,
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "size_kb": 121,
+      "created_at": "2025-10-09T20:39:02Z",
+      "updated_at": "2025-10-09T20:39:02Z",
+      "pushed_at": "2025-10-10T12:15:16Z",
+      "open_issues": 0
+    },
+    {
+      "name": "css-loader",
+      "full_name": "gaearon/css-loader",
+      "html_url": "https://github.com/gaearon/css-loader",
+      "description": "css loader module for webpack",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 2,
+      "size_kb": 185,
+      "created_at": "2016-12-05T14:33:25Z",
+      "updated_at": "2025-10-08T16:04:44Z",
+      "pushed_at": "2016-12-07T20:08:20Z",
+      "open_issues": 0
+    },
+    {
+      "name": "Backbone.localStorage",
+      "full_name": "gaearon/Backbone.localStorage",
+      "html_url": "https://github.com/gaearon/Backbone.localStorage",
+      "description": "A localStorage adapter for Backbone.js",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 1,
+      "size_kb": 639,
+      "created_at": "2014-07-30T16:15:50Z",
+      "updated_at": "2025-10-06T17:02:17Z",
+      "pushed_at": "2014-07-30T16:39:05Z",
+      "open_issues": 0
+    },
+    {
+      "name": "statusphere-react",
+      "full_name": "gaearon/statusphere-react",
+      "html_url": "https://github.com/gaearon/statusphere-react",
+      "description": "a fork of the atproto \"statusphere\" demo that uses vite/react",
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "size_kb": 1083,
+      "created_at": "2025-09-30T23:38:50Z",
+      "updated_at": "2025-10-03T13:09:24Z",
+      "pushed_at": "2025-09-30T19:16:34Z",
+      "open_issues": 0
+    },
+    {
+      "name": "amok",
+      "full_name": "gaearon/amok",
+      "html_url": "https://github.com/gaearon/amok",
+      "description": "Develop your web application without reloading",
+      "language": "JavaScript",
+      "stars": 3,
+      "forks": 1,
+      "size_kb": 714,
+      "created_at": "2015-09-27T16:44:21Z",
+      "updated_at": "2025-09-30T15:17:49Z",
+      "pushed_at": "2015-09-27T16:44:36Z",
+      "open_issues": 0
+    },
+    {
+      "name": "Backbone.NativeView",
+      "full_name": "gaearon/Backbone.NativeView",
+      "html_url": "https://github.com/gaearon/Backbone.NativeView",
+      "description": "A reference implementation of a native Backbone.View ",
+      "language": null,
+      "stars": 1,
+      "forks": 1,
+      "size_kb": 231,
+      "created_at": "2014-07-06T22:04:37Z",
+      "updated_at": "2025-09-29T13:02:15Z",
+      "pushed_at": "2014-07-06T23:35:07Z",
+      "open_issues": 0
+    },
+    {
+      "name": "babel-handbook",
+      "full_name": "gaearon/babel-handbook",
+      "html_url": "https://github.com/gaearon/babel-handbook",
+      "description": ":blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.",
+      "language": null,
+      "stars": 13,
+      "forks": 8,
+      "size_kb": 2694,
+      "created_at": "2019-05-22T16:42:03Z",
+      "updated_at": "2025-09-28T16:34:00Z",
+      "pushed_at": "2019-05-15T03:06:47Z",
+      "open_issues": 0
+    },
+    {
+      "name": "cancellation",
+      "full_name": "gaearon/cancellation",
+      "html_url": "https://github.com/gaearon/cancellation",
+      "description": "A method for making async operations cancellable",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 1,
+      "size_kb": 109,
+      "created_at": "2015-01-19T14:09:43Z",
+      "updated_at": "2025-09-28T04:14:40Z",
+      "pushed_at": "2015-01-19T14:30:49Z",
+      "open_issues": 0
+    },
+    {
+      "name": "berlinjs.org",
+      "full_name": "gaearon/berlinjs.org",
+      "html_url": "https://github.com/gaearon/berlinjs.org",
+      "description": "The official BerlinJS website",
+      "language": null,
+      "stars": 2,
+      "forks": 1,
+      "size_kb": 3995,
+      "created_at": "2014-11-12T11:30:07Z",
+      "updated_at": "2025-09-27T21:38:53Z",
+      "pushed_at": "2014-11-12T12:49:45Z",
+      "open_issues": 0
+    },
+    {
+      "name": "expo",
+      "full_name": "gaearon/expo",
+      "html_url": "https://github.com/gaearon/expo",
+      "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": null,
+      "stars": 13,
+      "forks": 0,
+      "size_kb": 2988427,
+      "created_at": "2024-04-02T05:12:48Z",
+      "updated_at": "2025-09-04T11:39:41Z",
+      "pushed_at": "2024-11-01T23:22:04Z",
+      "open_issues": 0
+    },
+    {
+      "name": "ama",
+      "full_name": "gaearon/ama",
+      "html_url": "https://github.com/gaearon/ama",
+      "description": "Ask me anything!",
+      "language": null,
+      "stars": 223,
+      "forks": 5,
+      "size_kb": 197,
+      "created_at": "2015-09-14T15:05:32Z",
+      "updated_at": "2025-07-25T01:34:28Z",
+      "pushed_at": "2015-09-14T15:09:54Z",
+      "open_issues": 48
+    },
+    {
+      "name": "react-native-image-crop-picker",
+      "full_name": "gaearon/react-native-image-crop-picker",
+      "html_url": "https://github.com/gaearon/react-native-image-crop-picker",
+      "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
+      "language": null,
+      "stars": 4,
+      "forks": 0,
+      "size_kb": 8256,
+      "created_at": "2024-11-25T17:35:39Z",
+      "updated_at": "2025-07-16T03:09:37Z",
+      "pushed_at": "2024-12-19T21:47:38Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-navigation",
+      "full_name": "gaearon/react-navigation",
+      "html_url": "https://github.com/gaearon/react-navigation",
+      "description": "Routing and navigation for your React Native apps",
+      "language": null,
+      "stars": 6,
+      "forks": 1,
+      "size_kb": 71743,
+      "created_at": "2024-12-07T21:23:55Z",
+      "updated_at": "2025-07-16T03:09:36Z",
+      "pushed_at": "2025-01-02T17:34:41Z",
+      "open_issues": 0
+    },
+    {
+      "name": "mathematics_in_lean_source",
+      "full_name": "gaearon/mathematics_in_lean_source",
+      "html_url": "https://github.com/gaearon/mathematics_in_lean_source",
+      "description": "Source code for the Mathematics in Lean tutorial.",
+      "language": null,
+      "stars": 2,
+      "forks": 1,
+      "size_kb": 1175,
+      "created_at": "2025-02-01T20:30:38Z",
+      "updated_at": "2025-07-16T03:09:34Z",
+      "pushed_at": "2025-02-01T23:32:38Z",
+      "open_issues": 0
+    },
+    {
+      "name": "formalising-mathematics-notes",
+      "full_name": "gaearon/formalising-mathematics-notes",
+      "html_url": "https://github.com/gaearon/formalising-mathematics-notes",
+      "description": "Course notes for Formalising Mathematics 2025",
+      "language": "Lean",
+      "stars": 5,
+      "forks": 0,
+      "size_kb": 319,
+      "created_at": "2025-03-12T16:58:02Z",
+      "updated_at": "2025-07-16T03:09:33Z",
+      "pushed_at": "2025-03-25T12:10:05Z",
+      "open_issues": 0
+    },
+    {
+      "name": "lean-lsp-mcp",
+      "full_name": "gaearon/lean-lsp-mcp",
+      "html_url": "https://github.com/gaearon/lean-lsp-mcp",
+      "description": "Lean Theorem Prover MCP",
+      "language": null,
+      "stars": 4,
+      "forks": 0,
+      "size_kb": 577,
+      "created_at": "2025-07-04T18:32:49Z",
+      "updated_at": "2025-07-16T03:09:26Z",
+      "pushed_at": "2025-07-05T01:51:09Z",
+      "open_issues": 0
+    },
+    {
+      "name": "ukraine-timemap",
+      "full_name": "gaearon/ukraine-timemap",
+      "html_url": "https://github.com/gaearon/ukraine-timemap",
+      "description": "TimeMap instance for Civilian Harm in Ukraine",
+      "language": null,
+      "stars": 68,
+      "forks": 7,
+      "size_kb": 8310,
+      "created_at": "2022-04-03T19:54:44Z",
+      "updated_at": "2025-07-06T21:45:38Z",
+      "pushed_at": "2022-04-06T00:55:43Z",
+      "open_issues": 0
+    },
+    {
+      "name": "podcast-player",
+      "full_name": "gaearon/podcast-player",
+      "html_url": "https://github.com/gaearon/podcast-player",
+      "description": "A podcasts app to demonstrate React concepts.",
+      "language": null,
+      "stars": 18,
+      "forks": 3,
+      "size_kb": 8685,
+      "created_at": "2020-07-31T22:13:59Z",
+      "updated_at": "2025-06-18T02:51:08Z",
+      "pushed_at": "2020-07-31T22:14:19Z",
+      "open_issues": 0
+    },
+    {
+      "name": "formatjs",
+      "full_name": "gaearon/formatjs",
+      "html_url": "https://github.com/gaearon/formatjs",
+      "description": "The monorepo home to all of the FormatJS related libraries, most notably react-intl.",
+      "language": null,
+      "stars": 11,
+      "forks": 1,
+      "size_kb": 55192,
+      "created_at": "2024-08-03T02:46:29Z",
+      "updated_at": "2025-06-13T09:04:05Z",
+      "pushed_at": "2024-08-03T02:51:59Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-transform-hmr",
+      "full_name": "gaearon/react-transform-hmr",
+      "html_url": "https://github.com/gaearon/react-transform-hmr",
+      "description": "A React Transform that enables hot reloading React classes using Hot Module Replacement API",
+      "language": "JavaScript",
+      "stars": 768,
+      "forks": 57,
+      "size_kb": 23,
+      "created_at": "2015-09-02T23:37:25Z",
+      "updated_at": "2025-05-25T00:31:10Z",
+      "pushed_at": "2018-03-21T10:47:25Z",
+      "open_issues": 7
+    },
+    {
+      "name": "DefinitelyTyped",
+      "full_name": "gaearon/DefinitelyTyped",
+      "html_url": "https://github.com/gaearon/DefinitelyTyped",
+      "description": "The repository for high quality TypeScript type definitions.",
+      "language": null,
+      "stars": 9,
+      "forks": 0,
+      "size_kb": 953574,
+      "created_at": "2021-09-28T14:24:18Z",
+      "updated_at": "2025-05-05T18:13:29Z",
+      "pushed_at": "2023-03-21T22:43:09Z",
+      "open_issues": 0
+    },
+    {
+      "name": "simple-rsc",
+      "full_name": "gaearon/simple-rsc",
+      "html_url": "https://github.com/gaearon/simple-rsc",
+      "description": null,
+      "language": null,
+      "stars": 2,
+      "forks": 2,
+      "size_kb": 79,
+      "created_at": "2023-03-30T20:39:39Z",
+      "updated_at": "2025-05-05T18:13:29Z",
+      "pushed_at": "2023-03-31T14:37:18Z",
+      "open_issues": 0
+    },
+    {
+      "name": "babel.github.io",
+      "full_name": "gaearon/babel.github.io",
+      "html_url": "https://github.com/gaearon/babel.github.io",
+      "description": null,
+      "language": "CSS",
+      "stars": 8,
+      "forks": 1,
+      "size_kb": 27319,
+      "created_at": "2015-04-28T17:59:44Z",
+      "updated_at": "2025-05-05T18:13:27Z",
+      "pushed_at": "2023-03-17T14:37:57Z",
+      "open_issues": 0
+    },
+    {
+      "name": "nextjs-appdir-embed-testing",
+      "full_name": "gaearon/nextjs-appdir-embed-testing",
+      "html_url": "https://github.com/gaearon/nextjs-appdir-embed-testing",
+      "description": null,
+      "language": null,
+      "stars": 5,
+      "forks": 0,
+      "size_kb": 80,
+      "created_at": "2023-02-01T17:50:17Z",
+      "updated_at": "2025-05-05T18:13:24Z",
+      "pushed_at": "2023-02-01T18:53:39Z",
+      "open_issues": 0
+    },
+    {
+      "name": "sandpack",
+      "full_name": "gaearon/sandpack",
+      "html_url": "https://github.com/gaearon/sandpack",
+      "description": "A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.",
+      "language": null,
+      "stars": 14,
+      "forks": 2,
+      "size_kb": 12350,
+      "created_at": "2022-02-18T05:16:00Z",
+      "updated_at": "2025-05-05T18:13:22Z",
+      "pushed_at": "2023-04-08T17:22:07Z",
+      "open_issues": 0
+    },
+    {
+      "name": "website",
+      "full_name": "gaearon/website",
+      "html_url": "https://github.com/gaearon/website",
+      "description": "Yarn package manager website",
+      "language": "JavaScript",
+      "stars": 31,
+      "forks": 8,
+      "size_kb": 5733,
+      "created_at": "2017-05-31T15:04:24Z",
+      "updated_at": "2025-05-05T18:13:22Z",
+      "pushed_at": "2024-05-24T21:03:48Z",
+      "open_issues": 1
+    },
+    {
+      "name": "DreamBerd",
+      "full_name": "gaearon/DreamBerd",
+      "html_url": "https://github.com/gaearon/DreamBerd",
+      "description": "perfect programming language",
+      "language": null,
+      "stars": 3,
+      "forks": 0,
+      "size_kb": 101,
+      "created_at": "2022-11-30T22:48:11Z",
+      "updated_at": "2025-05-05T18:13:20Z",
+      "pushed_at": "2022-11-30T23:13:06Z",
+      "open_issues": 0
+    },
+    {
+      "name": "gitbook-plugin-prism",
+      "full_name": "gaearon/gitbook-plugin-prism",
+      "html_url": "https://github.com/gaearon/gitbook-plugin-prism",
+      "description": "Gitbook plugin for Prism highlighting",
+      "language": "JavaScript",
+      "stars": 88,
+      "forks": 26,
+      "size_kb": 72,
+      "created_at": "2015-09-12T15:32:30Z",
+      "updated_at": "2025-05-05T18:13:19Z",
+      "pushed_at": "2022-11-06T16:30:26Z",
+      "open_issues": 10
+    },
+    {
+      "name": "classnames",
+      "full_name": "gaearon/classnames",
+      "html_url": "https://github.com/gaearon/classnames",
+      "description": "A simple javascript utility for conditionally joining classNames together",
+      "language": null,
+      "stars": 4,
+      "forks": 0,
+      "size_kb": 565,
+      "created_at": "2022-12-23T16:21:16Z",
+      "updated_at": "2025-05-05T18:13:19Z",
+      "pushed_at": "2022-11-28T12:53:25Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-collapsed",
+      "full_name": "gaearon/react-collapsed",
+      "html_url": "https://github.com/gaearon/react-collapsed",
+      "description": "A React custom-hook for creating flexible and accessible expand/collapse components.",
+      "language": "TypeScript",
+      "stars": 16,
+      "forks": 3,
+      "size_kb": 2546,
+      "created_at": "2021-10-01T12:18:24Z",
+      "updated_at": "2025-05-05T18:13:17Z",
+      "pushed_at": "2022-09-13T13:07:43Z",
+      "open_issues": 0
+    },
+    {
+      "name": "sc-bug-repro",
+      "full_name": "gaearon/sc-bug-repro",
+      "html_url": "https://github.com/gaearon/sc-bug-repro",
+      "description": null,
+      "language": "CSS",
+      "stars": 14,
+      "forks": 1,
+      "size_kb": 159,
+      "created_at": "2022-02-19T22:25:15Z",
+      "updated_at": "2025-05-05T18:13:15Z",
+      "pushed_at": "2022-05-23T20:50:54Z",
+      "open_issues": 1
+    },
+    {
+      "name": "ssr-demo",
+      "full_name": "gaearon/ssr-demo",
+      "html_url": "https://github.com/gaearon/ssr-demo",
+      "description": null,
+      "language": null,
+      "stars": 3,
+      "forks": 1,
+      "size_kb": 2472,
+      "created_at": "2022-04-02T15:12:22Z",
+      "updated_at": "2025-05-05T18:13:07Z",
+      "pushed_at": "2022-04-02T15:12:39Z",
+      "open_issues": 0
+    },
+    {
+      "name": "ga-lite",
+      "full_name": "gaearon/ga-lite",
+      "html_url": "https://github.com/gaearon/ga-lite",
+      "description": "Small, cacheable and open version of Google Analytics JS client",
+      "language": null,
+      "stars": 2,
+      "forks": 1,
+      "size_kb": 9167,
+      "created_at": "2022-02-18T03:34:12Z",
+      "updated_at": "2025-05-05T18:13:07Z",
+      "pushed_at": "2022-02-18T04:44:09Z",
+      "open_issues": 0
+    },
+    {
+      "name": "mdx",
+      "full_name": "gaearon/mdx",
+      "html_url": "https://github.com/gaearon/mdx",
+      "description": "Markdown for the component era",
+      "language": null,
+      "stars": 5,
+      "forks": 1,
+      "size_kb": 38596,
+      "created_at": "2022-02-01T12:24:43Z",
+      "updated_at": "2025-05-05T18:13:06Z",
+      "pushed_at": "2022-02-01T12:39:03Z",
+      "open_issues": 0
+    },
+    {
+      "name": "react-fractals",
+      "full_name": "gaearon/react-fractals",
+      "html_url": "https://github.com/gaearon/react-fractals",
+      "description": "An experiment -> Fractals in React.",
+      "language": "JavaScript",
+      "stars": 16,
+      "forks": 4,
+      "size_kb": 6376,
+      "created_at": "2016-12-22T02:42:36Z",
+      "updated_at": "2025-05-05T18:13:04Z",
+      "pushed_at": "2021-06-16T13:49:06Z",
+      "open_issues": 0
+    },
+    {
+      "name": "firebase-js-sdk",
+      "full_name": "gaearon/firebase-js-sdk",
+      "html_url": "https://github.com/gaearon/firebase-js-sdk",
+      "description": "Firebase Javascript SDK",
+      "language": null,
+      "stars": 3,
+      "forks": 0,
+      "size_kb": 111227,
+      "created_at": "2021-11-16T21:17:42Z",
+      "updated_at": "2025-05-05T18:13:04Z",
+      "pushed_at": "2021-11-16T21:19:16Z",
+      "open_issues": 0
+    },
+    {
+      "name": "platform-app",
+      "full_name": "gaearon/platform-app",
+      "html_url": "https://github.com/gaearon/platform-app",
+      "description": "Open Targets Platform web app",
+      "language": null,
+      "stars": 3,
+      "forks": 2,
+      "size_kb": 9055,
+      "created_at": "2021-06-17T14:14:10Z",
+      "updated_at": "2025-05-05T18:12:59Z",
+      "pushed_at": "2021-06-17T15:01:25Z",
+      "open_issues": 0
+    },
+    {
+      "name": "eslint",
+      "full_name": "gaearon/eslint",
+      "html_url": "https://github.com/gaearon/eslint",
+      "description": "Find and fix problems in your JavaScript code.",
+      "language": null,
+      "stars": 8,
+      "forks": 2,
+      "size_kb": 26759,
+      "created_at": "2021-03-02T19:49:53Z",
+      "updated_at": "2025-05-05T18:12:56Z",
+      "pushed_at": "2021-03-02T19:51:26Z",
+      "open_issues": 0
+    }
+  ],
+  "languages": {
+    "JavaScript": 42,
+    "CSS": 3,
+    "TypeScript": 6,
+    "Makefile": 1,
+    "Java": 1,
+    "HTML": 1,
+    "Kotlin": 1,
+    "Lean": 2
+  },
+  "stats": {
+    "total_stars": 45068,
+    "total_forks": 5300,
+    "average_repo_size_kb": 90270,
+    "most_starred_repo": "react-hot-loader",
+    "most_forked_repo": "overreacted.io",
+    "languages_count": 8
+  },
+  "milestones": [
+    {
+      "id": "age_10",
+      "title": "Decade Developer",
+      "desc": "Account is over 10 years old",
+      "unlocked": true,
+      "category": "age"
+    },
+    {
+      "id": "repos_100",
+      "title": "Code Empire",
+      "desc": "Created 100+ repositories",
+      "unlocked": true,
+      "category": "code"
+    },
+    {
+      "id": "repos_1",
+      "title": "First Commit",
+      "desc": "Created at least 1 repository",
+      "unlocked": true,
+      "category": "code"
+    },
+    {
+      "id": "followers_1000",
+      "title": "Tech Influencer",
+      "desc": "Has 1,000+ followers",
+      "unlocked": true,
+      "category": "followers"
+    },
+    {
+      "id": "lang_5",
+      "title": "Universal Polyglot",
+      "desc": "Worked with 5+ languages",
+      "unlocked": true,
+      "category": "languages"
+    },
+    {
+      "id": "stars_500",
+      "title": "GitHub Icon",
+      "desc": "Earned 500+ stars",
+      "unlocked": true,
+      "category": "stars"
+    }
+  ],
+  "activity_trend": [
+    {
+      "date": "2026-06-12",
+      "count": 1,
+      "breakdown": {
+        "IssueCommentEvent": 1
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "count": 2,
+      "breakdown": {
+        "CreateEvent": 2
+      }
+    }
+  ],
+  "repo_creation_trend": [
+    {
+      "date": "2014-07",
+      "count": 4,
+      "cumulative": 4
+    },
+    {
+      "date": "2014-08",
+      "count": 2,
+      "cumulative": 6
+    },
+    {
+      "date": "2014-10",
+      "count": 1,
+      "cumulative": 7
+    },
+    {
+      "date": "2014-11",
+      "count": 2,
+      "cumulative": 9
+    },
+    {
+      "date": "2015-01",
+      "count": 1,
+      "cumulative": 10
+    },
+    {
+      "date": "2015-02",
+      "count": 1,
+      "cumulative": 11
+    },
+    {
+      "date": "2015-04",
+      "count": 2,
+      "cumulative": 13
+    },
+    {
+      "date": "2015-05",
+      "count": 1,
+      "cumulative": 14
+    },
+    {
+      "date": "2015-06",
+      "count": 1,
+      "cumulative": 15
+    },
+    {
+      "date": "2015-07",
+      "count": 1,
+      "cumulative": 16
+    },
+    {
+      "date": "2015-08",
+      "count": 6,
+      "cumulative": 22
+    },
+    {
+      "date": "2015-09",
+      "count": 8,
+      "cumulative": 30
+    },
+    {
+      "date": "2015-10",
+      "count": 3,
+      "cumulative": 33
+    },
+    {
+      "date": "2016-02",
+      "count": 1,
+      "cumulative": 34
+    },
+    {
+      "date": "2016-03",
+      "count": 1,
+      "cumulative": 35
+    },
+    {
+      "date": "2016-05",
+      "count": 1,
+      "cumulative": 36
+    },
+    {
+      "date": "2016-07",
+      "count": 1,
+      "cumulative": 37
+    },
+    {
+      "date": "2016-10",
+      "count": 1,
+      "cumulative": 38
+    },
+    {
+      "date": "2016-12",
+      "count": 2,
+      "cumulative": 40
+    },
+    {
+      "date": "2017-01",
+      "count": 1,
+      "cumulative": 41
+    },
+    {
+      "date": "2017-04",
+      "count": 3,
+      "cumulative": 44
+    },
+    {
+      "date": "2017-05",
+      "count": 3,
+      "cumulative": 47
+    },
+    {
+      "date": "2017-11",
+      "count": 1,
+      "cumulative": 48
+    },
+    {
+      "date": "2017-12",
+      "count": 1,
+      "cumulative": 49
+    },
+    {
+      "date": "2018-04",
+      "count": 1,
+      "cumulative": 50
+    },
+    {
+      "date": "2018-08",
+      "count": 1,
+      "cumulative": 51
+    },
+    {
+      "date": "2018-11",
+      "count": 1,
+      "cumulative": 52
+    },
+    {
+      "date": "2019-05",
+      "count": 1,
+      "cumulative": 53
+    },
+    {
+      "date": "2019-11",
+      "count": 1,
+      "cumulative": 54
+    },
+    {
+      "date": "2020-07",
+      "count": 2,
+      "cumulative": 56
+    },
+    {
+      "date": "2020-08",
+      "count": 1,
+      "cumulative": 57
+    },
+    {
+      "date": "2021-01",
+      "count": 1,
+      "cumulative": 58
+    },
+    {
+      "date": "2021-03",
+      "count": 1,
+      "cumulative": 59
+    },
+    {
+      "date": "2021-06",
+      "count": 2,
+      "cumulative": 61
+    },
+    {
+      "date": "2021-09",
+      "count": 1,
+      "cumulative": 62
+    },
+    {
+      "date": "2021-10",
+      "count": 1,
+      "cumulative": 63
+    },
+    {
+      "date": "2021-11",
+      "count": 1,
+      "cumulative": 64
+    },
+    {
+      "date": "2022-02",
+      "count": 5,
+      "cumulative": 69
+    },
+    {
+      "date": "2022-04",
+      "count": 2,
+      "cumulative": 71
+    },
+    {
+      "date": "2022-11",
+      "count": 1,
+      "cumulative": 72
+    },
+    {
+      "date": "2022-12",
+      "count": 1,
+      "cumulative": 73
+    },
+    {
+      "date": "2023-02",
+      "count": 1,
+      "cumulative": 74
+    },
+    {
+      "date": "2023-03",
+      "count": 1,
+      "cumulative": 75
+    },
+    {
+      "date": "2023-10",
+      "count": 1,
+      "cumulative": 76
+    },
+    {
+      "date": "2024-04",
+      "count": 1,
+      "cumulative": 77
+    },
+    {
+      "date": "2024-08",
+      "count": 1,
+      "cumulative": 78
+    },
+    {
+      "date": "2024-11",
+      "count": 3,
+      "cumulative": 81
+    },
+    {
+      "date": "2024-12",
+      "count": 2,
+      "cumulative": 83
+    },
+    {
+      "date": "2025-02",
+      "count": 1,
+      "cumulative": 84
+    },
+    {
+      "date": "2025-03",
+      "count": 1,
+      "cumulative": 85
+    },
+    {
+      "date": "2025-06",
+      "count": 1,
+      "cumulative": 86
+    },
+    {
+      "date": "2025-07",
+      "count": 1,
+      "cumulative": 87
+    },
+    {
+      "date": "2025-09",
+      "count": 2,
+      "cumulative": 89
+    },
+    {
+      "date": "2025-10",
+      "count": 2,
+      "cumulative": 91
+    },
+    {
+      "date": "2025-11",
+      "count": 1,
+      "cumulative": 92
+    },
+    {
+      "date": "2025-12",
+      "count": 2,
+      "cumulative": 94
+    },
+    {
+      "date": "2026-01",
+      "count": 2,
+      "cumulative": 96
+    },
+    {
+      "date": "2026-02",
+      "count": 3,
+      "cumulative": 99
+    },
+    {
+      "date": "2026-06",
+      "count": 1,
+      "cumulative": 100
+    }
+  ],
+  "follower_trend": [
+    {
+      "date": "2012-08",
+      "count": 22079
+    },
+    {
+      "date": "2013-11",
+      "count": 36152
+    },
+    {
+      "date": "2015-02",
+      "count": 46503
+    },
+    {
+      "date": "2016-06",
+      "count": 54695
+    },
+    {
+      "date": "2017-09",
+      "count": 61476
+    },
+    {
+      "date": "2018-12",
+      "count": 67260
+    },
+    {
+      "date": "2020-03",
+      "count": 72304
+    },
+    {
+      "date": "2021-06",
+      "count": 76775
+    },
+    {
+      "date": "2022-09",
+      "count": 80791
+    },
+    {
+      "date": "2023-12",
+      "count": 84435
+    },
+    {
+      "date": "2025-03",
+      "count": 87772
+    },
+    {
+      "date": "2026-06",
+      "count": 90848
+    }
+  ]
+}
