@@ -5,7 +5,7 @@ from backend.config import Config
 from backend.github_client import GitHubClient
 from backend.cache_manager import CacheManager
 
-app = Flask(__name__, static_folder="../frontend/dist", static_url_path="")
+app = Flask(__name__, static_folder="../dist", static_url_path="")
 CORS(app)  # Enables cross-origin requests for Vite dev server
 
 @app.route("/api/stats/<username>", methods=["GET"])
