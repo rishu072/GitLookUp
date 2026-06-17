@@ -37,7 +37,6 @@ export const TrendsChart: React.FC<TrendsChartProps> = ({ repoCreationTrend, fol
     const plotHeight = height - paddingTop - paddingBottom;
 
     const values = activeData.map(getPlottedValue);
-    const minVal = 0;
     const maxVal = Math.max(...values, 5); // Fallback to 5 to avoid flat charts
 
     const points = activeData.map((d, index) => {
@@ -79,7 +78,7 @@ export const TrendsChart: React.FC<TrendsChartProps> = ({ repoCreationTrend, fol
     );
   }
 
-  const { width, height, points, linePath, areaPath, yGridLines, paddingTop, plotHeight, paddingLeft, plotWidth } = chartParams;
+  const { width, height, points, linePath, areaPath, yGridLines, paddingTop, plotHeight, paddingLeft } = chartParams;
   const isRepos = activeTab === "repos";
   const accentColor = isRepos ? "#8b5cf6" : "#06b6d4";
   const gradientId = isRepos ? "repos-gradient" : "followers-gradient";

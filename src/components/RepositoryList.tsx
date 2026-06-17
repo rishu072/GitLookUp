@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from "react";
-import { Star, GitFork, AlertCircle, Search, ArrowUpDown, ExternalLink } from "lucide-react";
+import { Star, GitFork, AlertCircle, Search, ExternalLink } from "lucide-react";
 
 interface Repo {
   name: string;

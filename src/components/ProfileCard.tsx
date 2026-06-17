@@ -1,5 +1,22 @@
 import React from "react";
-import { MapPin, Briefcase, Link as LinkIcon, Twitter, Calendar, Users, Folder, Code } from "lucide-react";
+import { MapPin, Briefcase, Link as LinkIcon, Calendar, Users, Folder, Code } from "lucide-react";
+
+const TwitterIcon: React.FC<{ size?: number; className?: string }> = ({ size = 24, className }) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={size}
+    height={size}
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    className={className}
+  >
+    <path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z" />
+  </svg>
+);
 
 interface ProfileCardProps {
   user: {
@@ -140,7 +157,7 @@ export const ProfileCard: React.FC<ProfileCardProps> = ({ user }) => {
           )}
           {user.twitter && (
             <div className="meta-item">
-              <Twitter size={16} className="meta-icon" />
+              <TwitterIcon size={16} className="meta-icon" />
               <a href={`https://twitter.com/${user.twitter}`} target="_blank" rel="noopener noreferrer">
                 @{user.twitter}
               </a>

@@ -1,5 +1,5 @@
 import React from "react";
-import { Award, Lock, Award as UnlockedIcon, Calendar, Folder, Star, Users, Code } from "lucide-react";
+import { Award, Lock, Calendar, Folder, Star, Users, Code } from "lucide-react";
 
 interface Milestone {
   id: string;
